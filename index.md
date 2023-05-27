@@ -19,4 +19,3 @@ My research interest  lies at the image processing, computer vision and machine 
 
 {% include_relative _includes/publications.md %}
 
-<>({% include_relative _includes/services.md %})
