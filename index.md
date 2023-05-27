@@ -4,20 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently work with [NovaTek microelectronics Corp.](https://www.novatek.com.tw/en-global/Home) as an Algorithm Engineer. Before joining NoveTek, 
+I received B.S from Department of Computer Science at [National Central University](https://www.ncu.edu.tw/tw/) and M.S from Graduate Institute of Communication Engineering at [National Taiwan University](https://www.ntu.edu.tw/),
+ advised by [Prof. Soo-Chang Pei](https://www.ee.ntu.edu.tw/profile1.php?id=3)
+  
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research interest  lies at the image processing, computer vision and machine learning, especially for **Image Restorations/Enhancement**, **Image-to-Image Translation** and **Domain Adaptation**. 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sept. 2022]** I join NovaTek as an algorithms engineer
+- **[Aug. 2022]** Our paper about underwater image enhancement is accepted to IEEE Access 2022!
+- **[June. 2022]** Graduated from GICE, NTU.
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<>({% include_relative _includes/services.md %})

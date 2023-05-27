@@ -7,20 +7,17 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
+    <img src="assets/img/uiess.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEEE Access</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</a></div>
-    <div class="author"><strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9866748">Domain Adaptation for Underwater Image Enhancement via Content and Style Separation</a></div>
+    <div class="author"><strong>Yu-Wei Chen</strong>, Soo-Chang Pei</div>
+    <div class="periodical"><em> IEEE Access, 2022.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9866748" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://github.com/fordevoted/UIESS" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
