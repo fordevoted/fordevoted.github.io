@@ -8,7 +8,7 @@ I am currently work with [NovaTek microelectronics Corp.](https://www.novatek.co
  advised by [Prof. Soo-Chang Pei](https://www.ee.ntu.edu.tw/profile1.php?id=3)
   
 
-My research interest  lies at the Image Processing, Computer Vision and Machine Learning, especially for **Image Restorations/Enhancement**, **Image-to-Image Translation** and **Domain Adaptation**. 
+My research interest lies at the Image Processing, Computer Vision and Machine Learning, especially for **Image Restorations/Enhancement**, **Image-to-Image Translation** and **Domain Adaptation**. 
 
 ## News
 

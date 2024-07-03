@@ -1,6 +1,6 @@
 # Basic Information 
 title: Yu-Wei Chen
-position: Algorithms Engineer
+position: Image Processing Algorithm Engineer
 affiliation: NovaTek Microelectnic Crop.
 email: r09942066@ntu.edu.tw
 
@@ -8,12 +8,12 @@ email: r09942066@ntu.edu.tw
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Yu-Wei Chen
 description: Yuwei Chen's personal website for academic.
-canonical: https://fordevoted.github.io/Yuwei-Chen.github.io/
+canonical: https://fordevoted.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com.tw/citations?user=QQQq7ekAAAAJ&hl=zh-TW
-cv_link: ./assets/img/profile.png
+cv_link: ./assets/files/Resume.pdf
 github_link: https://github.com/fordevoted
 linkedin: https://www.linkedin.com/in/yu-wei-chen-7b30bb134/
 twitter: https://twitter.com/_yuwei_chen
