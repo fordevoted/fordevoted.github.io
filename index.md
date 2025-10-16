@@ -11,6 +11,7 @@ I am currently work with [NovaTek microelectronics Corp.](https://www.novatek.co
 My research interest lies at the Image Processing, Computer Vision and Machine Learning, especially for **Image Restorations/Enhancement**, **Image-to-Image Translation** and **Domain Adaptation**. 
 
 ## News
+- **[Sep. 2025]** I have been promoted to **Principal Algorithm Engineer** at **NovaTek**!
 - **[Jan. 2025]** Our paper related to <ins>adverse weather removal</ins> & <ins>all-in-one image restoration</ins> is accepted to IEEE Access 2025!
 - **[Oct. 2023]** Our paper related to <ins>adverse weather removal</ins> & <ins>all-in-one image restoration</ins> is released to arXiv!
 - **[Sept. 2022]** I join NovaTek as an image processing algorithm engineer
